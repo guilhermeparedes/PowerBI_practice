@@ -1,7 +1,7 @@
 # Microsoft Power BI Para Business Intelligence e Data Science
 
 Neste reposiório irei hospedar mini-projetos e laboratórios desenvolvidos no curso de *Microsoft Power BI Para Business Intelligence e Data Science* da *Data Science Academy (DSA)*. Estes projetos terão como intuito de conectar o Power BI em banco de dados, gerar relatórios e Dashboards interativos, agregar, filtrar e transformar os dados. Também, este curso tem o diferencial de utilizar Power BI, mas aplicar técnicas de Data Science para gerar modelos preditivos e extrair insights para a tomada de decisões, integrando o Power BI com Linguagem R e Python.
-Os mini-projetos e laboratórios realizandos focam na resolução de problemas de negócio e a aplicação das respectivas KPI's para cada área que serão estudadas e aplicadas.
+Os mini-projetos e laboratórios realizandos focam na resolução de problemas e a aplicação das respectivas KPI's para cada área  de negócio estudada.
 
 ## Estrutura do Curso
 
