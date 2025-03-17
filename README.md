@@ -7,7 +7,7 @@ Os mini-projetos e laboratórios realizandos focam na resolução de problemas e
 
 - Introdução
 -  Primeiros Passos com o Microsoft Power BI
-   - Laboratório prático 1 - Dashboard Aanalítico de Vendas Globais 
+   - Laboratório prático 1 - Dashboard Analítico de Vendas Globais 
 - Modelagem, Relacionamentos e DAX
    - Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 - Power BI Para Análise de Dados de Marketing
